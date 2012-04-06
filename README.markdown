@@ -12,7 +12,7 @@ For this test app, rvm and bundler will be used to manage ruby version and gems 
 
 Before running the app, you have to install the required ruby version and gems. Navigate to the root directory(the same level as this README). Press "y" if rvm prompts to confirm if you trust that .rvmrc file. 
 
-    dinny-macbook-air:dinny-projects dinny$ cd wunderkit-test-spinach/
+    dinny-macbook-air:dinny-projects dinny$ cd wunderkit-test-suite/
     ==============================================================================
     = NOTICE                                                                     =
     ==============================================================================
@@ -22,7 +22,7 @@ Before running the app, you have to install the required ruby version and gems. 
     = Examine the contents of this file carefully to be sure the contents are    =
     = safe before trusting it! ( Choose v[iew] below to view the contents )      =
     ==============================================================================
-    Do you wish to trust this .rvmrc file? (/Users/dinny/Projects/dinny-projects/wunderkit-test-spinach/.rvmrc)
+    Do you wish to trust this .rvmrc file? (/Users/dinny/Projects/dinny-projects/wunderkit-test-suite/.rvmrc)
     y[es], n[o], v[iew], c[ancel]> yes
 
 1. Install ruby-1.9.2-p318 if not installed: rvm install 1.9.2-p318
